@@ -1,0 +1,15 @@
+.iconos {
+    display: flex;
+    height: 150px;
+    width: 150px;
+    justify-content: right;
+    align-items: center;
+    background-color: var(--primario);
+    border-radius: 50%;
+}
+
+svg{
+    margin-top: 10px;
+    width: 90%;
+}
+
